@@ -1,6 +1,6 @@
 ![Header](https://source.unsplash.com/1600x400/?technology,data)
 
-# 👋 Hi, I'm [Shubham Rawal]!
+# 👋 Hi, I'm Shubham Rawal!
 
 🚀 **Data Scientist | Machine Learning | NLP | SQL | Python**
 
@@ -49,15 +49,10 @@
 
 ---
 
-## 📈 GitHub Stats  
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical)
-
----
 
 ## 📫 Connect with Me  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/yourprofile)
 [![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github)](https://github.com/yourusername)
-[![Kaggle](https://img.shields.io/badge/Kaggle-blue?style=for-the-badge&logo=kaggle)](https://www.kaggle.com/yourprofile)
+
 
 ⚡ **Let's build something amazing together!** 🚀
