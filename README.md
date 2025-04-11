@@ -7,7 +7,7 @@
 ---
 
 ## 🔥 About Me  
-- 🎯 **2+ years** of experience in **Data Science & Machine Learning**  
+- 🎯 **7+ years** of experience in **Mechanical**  
 - 🧠 Passionate about **building ML models, NLP solutions, and automating data workflows**  
 - 🛠️ Proficient in **Python, SQL, Excel, NLP, and Data Analysis**  
 - 📊 Love working with **complex datasets, feature engineering, and predictive modeling**  
