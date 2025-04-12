@@ -2,7 +2,7 @@
 
 # 👋 Hi, I'm Shubham Rawal!
 
-🚀 **Data Scientist | Machine Learning | NLP | SQL | Python**
+🚀 **Data Scientist | Machine Learning | NLP | SQL | Python | Power BI**
 
 ---
 
