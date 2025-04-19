@@ -1,5 +1,3 @@
-![Header](https://source.unsplash.com/1600x400/?technology,data)
-
 # 👋 Hi, I'm Shubham Rawal!
 
 🚀 **Data Scientist | Machine Learning | NLP | SQL | Python | Power BI**
@@ -30,24 +28,6 @@
 
 ---
 
-## 📌 Featured Projects  
-
-### 🔹 [Steel Price Prediction 📈](https://github.com/yourusername/steel-price-prediction)
-- **Built a regression model** to predict steel prices using machine learning
-- Performed **EDA, feature selection, and hyperparameter tuning**
-- **Technologies Used:** Python, Pandas, Scikit-Learn, XGBoost, Matplotlib
-
-### 🔹 [Customer Churn Prediction 🔍](https://github.com/yourusername/customer-churn)
-- Developed a model to **predict customer churn** in a subscription-based business
-- Used **SMOTE for handling imbalance** and feature engineering techniques
-- **Technologies Used:** Python, TensorFlow, Scikit-Learn, SMOTE
-
-### 🔹 [Consumer Complaint Analysis 📝](https://github.com/yourusername/consumer-complaints)
-- Built an **NLP model** to classify consumer complaints by category
-- Used **TF-IDF and Word Embeddings** for text feature extraction
-- **Technologies Used:** Python, NLP, Pandas, Matplotlib, Seaborn
-
----
 
 
 ## 📫 Connect with Me  
