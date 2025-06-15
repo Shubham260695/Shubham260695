@@ -1,20 +1,20 @@
-# 👋 Hi, I'm Shubham Rawal!
+#  Hi, I'm Shubham Rawal!
 
-🚀 **Data Scientist | Machine Learning | NLP | SQL | Python | Power BI**
-
----
-
-## 🔥 About Me  
-
-- 🧠 Passionate about **building ML models, NLP solutions, and automating data workflows**  
-- 🛠️ Proficient in **Python, SQL, Excel, NLP, and Data Analysis**  
-- 📊 Love working with **complex datasets, feature engineering, and predictive modeling**  
-- 🤖 Interested in **Deep Learning & AI**  
-- 🌎 Always learning & open to collaboration!  
+ **Data Scientist | Machine Learning | NLP | SQL | Python | Power BI**
 
 ---
 
-## 🚀 Skills & Tools  
+##  About Me  
+
+-  Passionate about **building ML models, NLP solutions, and automating data workflows**  
+-  Proficient in **Python, SQL, Excel, NLP, and Data Analysis**  
+-  Love working with **complex datasets, feature engineering, and predictive modeling**  
+-  Interested in **Deep Learning & AI**  
+-  Always learning & open to collaboration!  
+
+---
+
+##  Skills & Tools  
 
 ![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
@@ -30,9 +30,9 @@
 
 
 
-## 📫 Connect with Me  
+##  Connect with Me  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/yourprofile)
 [![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github)](https://github.com/yourusername)
 [contact No :- 9096836402]
 
-⚡ **Let's build something amazing together!** 🚀
+ **Let's build something amazing together!** 
