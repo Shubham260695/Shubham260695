@@ -1,6 +1,6 @@
-#  Hi, I'm Shubham Rawal!
+#  My Data Science Portfolio
 
- **Data Scientist | Machine Learning | NLP | SQL | Python | Power BI**
+Below is a collection of data-driven projects I have worked on, each with detailed documentation and GitHub repository links. These projects demonstrate my hands-on experience, problem-solving skills, and ability to deliver impactful business solutions using data.
 
 ---
 
@@ -13,24 +13,27 @@
 -  Always learning & open to collaboration!  
 
 ---
-
-##  Skills & Tools  
-
-![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
-![Machine Learning](https://img.shields.io/badge/Machine%20Learning-FF6F00?style=for-the-badge)
-![NLP](https://img.shields.io/badge/NLP-00BFFF?style=for-the-badge)
-![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
-![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=power-bi&logoColor=black)
-
----
 ## Data Science Portfolio
-1.[[Missingvalues](https://github.com/Shubham260695/Missingvalues)]
+1.[Missingvalues](https://github.com/Shubham260695/Missingvalues)
 
 Description :- This project demonstrates multiple techniques to handle **missing values** in datasets using Python. Handling missing data is a critical step in the data preprocessing pipeline.
+
+2.[Adult Salary Price Prediction](https://github.com/Shubham260695/Adult-Salary-Price-Prediction)
+
+Description :- This project aims to predict whether an individual earns more than $50K annually based on various features such as age, education, occupation, and more. It's based on the popular Adult Income dataset and demonstrates the end-to-end workflow of a real-world machine learning classification problem.
+
+3.[Health Care My Sql Project](https://github.com/Shubham260695/Health_Care_Sql_Project)
+
+Description :- MySQL was used to build and manage a healthcare appointment system where patients schedule appointments with doctors. The aim was to handle appointment data efficiently while enabling easy scheduling, status updates, and reporting functionalities.
+
+4.[Health care predictive modelling](https://github.com/Shubham260695/Health-Care)
+
+Description:- To build a machine learning model that predicts patient readmission using historical health care data, focusing on features like admission type, diagnosis, hospital stay duration, and treatment outcome.
+
+5.[Credit card transaction Dashboard](https://github.com/Shubham260695/Credit_Card_Transaction_Dashboard)
+
+Description :- Credit Card Transaction Dashboard is an interactive data visualization tool built using Power BI to analyze key financial metrics such as total revenue generated, total interest earned, and total number of credit card transactions. This dashboard empowers financial institutions to monitor performance, uncover spending trends, and make informed decisions to enhance profitability and customer engagement.
+
 
 
 
