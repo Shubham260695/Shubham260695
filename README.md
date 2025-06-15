@@ -27,12 +27,16 @@
 ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=power-bi&logoColor=black)
 
 ---
+## Data Science Portfolio
+1.[Missingvalues]
+Description :- This project demonstrates multiple techniques to handle **missing values** in datasets using Python. Handling missing data is a critical step in the data preprocessing pipeline.
+
 
 
 
 ##  Connect with Me  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/yourprofile)
-[![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github)](https://github.com/yourusername)
+[![GitHub](https://github.com/Shubham260695)
 [contact No :- 9096836402]
 
- **Let's build something amazing together!** 
+ 
